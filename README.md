@@ -40,7 +40,8 @@ Attributes:
 Interesting links to look at for the project:
 
 - Machine Learning Project on Student grade Prediction | Great Learning: https://www.youtube.com/watch?v=Y3y8v9PrMMY
-- On this link there is a relevant project and source code, but with portugese students: https://1000projects.org/student-grade-analysis-prediction-machine-learning-project.html#google_vignette
+- On this link there is a relevant project and source code: https://1000projects.org/student-grade-analysis-prediction-machine-learning-project.html#google_vignette
+- https://www.youtube.com/watch?v=6xhuxwW1tdI
 
 
 
