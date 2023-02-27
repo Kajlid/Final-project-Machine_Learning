@@ -2,7 +2,16 @@
 
 (csv file): https://www.kaggle.com/datasets/barkhaverma/student-performance 
 
-Attributes: 
+***Supervised Learning algorithms:***
+- LASSO (recommended by Bob): "LASSO is a type of linear regression that uses shrinkage. Shrinkage is where data values are shrunk towards a central point, like the mean. The lasso procedure encourages simple, sparse models (i.e. models with fewer parameters).This particular type of regression is well-suited for models showing high levels of muticollinearity (Multicollinearity can adversely affect your regression results.Multicollinearity generally occurs when there are high correlations between two or more predictor variables. In other words, one predictor variable can be used to predict the other)".
+
+The acronym “LASSO” stands for Least Absolute Shrinkage and Selection Operator.
+
+https://www.statisticshowto.com/lasso-regression/ 
+How to do LASSO: https://www.kirenz.com/post/2019-08-12-python-lasso-regression-auto/ 
+
+
+***All attributes: ***
 
 1 school - student's school (binary: 'GP' - Gabriel Pereira or 'MS' - Mousinho da Silveira)
 2 sex - student's sex (binary: 'F' - female or 'M' - male)
